@@ -1,0 +1,3 @@
+def Stopper():
+    print()
+    input("... ")
